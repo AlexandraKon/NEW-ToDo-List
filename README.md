@@ -13,3 +13,5 @@ https://new-todo-list-alexandra-kononenko.netlify.app/
 ### Technologies used:
 
 HTML, CSS and JavaScript
+
+![image](https://user-images.githubusercontent.com/92441983/172072374-93aab3ba-7e0b-46a8-8a21-ce3cb0d48354.png)
